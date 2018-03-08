@@ -1,2 +1,5 @@
 # hello-world
-Learning git and stuff
+
+Hi Humans!
+
+I don't really know what to write right now.
